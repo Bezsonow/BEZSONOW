@@ -5,6 +5,11 @@
 :man_student: higher technical education (in the field of mechanical engineering)
 
 :airplane: I work for a company that manufactures unmanned aerial vehicles
+
+:bar_chart: I am developing in the field of data analytics
+
+:martial_arts_uniform: I love active sports
+
 <!--
 **Bezsonow/BEZSONOW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
