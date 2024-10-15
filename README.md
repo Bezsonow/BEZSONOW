@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋. I am Kirill Bezsonov!
+## I am a beginner data analyst with a passion for extracting valuable insights from large datasets. 
 
 <!--
 **Bezsonow/BEZSONOW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
