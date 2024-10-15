@@ -12,26 +12,28 @@
 
 ## Connect with me:
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-
-
-  a href="your-twitter-URL">
-    <img src=" https://www.svgrepo.com/show/473825/vk.svg>
-  </a>
-
-  https://www.svgrepo.com/show/473825/vk.svg
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/Nwjxqrr2NkTX8fjLXq/giphy.gif?cid=790b7611lgnez0awb2udqajmozrg0l5evj84ptcwh5bgolf3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <div id="badges">
+    https://media.giphy.com/media/Nwjxqrr2NkTX8fjLXq/giphy.gif?cid=790b7611lgnez0awb2udqajmozrg0l5evj84ptcwh5bgolf3&ep=v1_gifs_search&rid=giphy.gif&ct=g
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <!--
